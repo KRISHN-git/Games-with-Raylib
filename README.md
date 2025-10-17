@@ -3,7 +3,7 @@
 Pong Game in C++ using Raylib library.
 
 It works with raylib version 5.0.
-Tested on both Windows 10 and Windows 11.
+Tested on Windows 11.
 
 # Video of GamePlay:
 
